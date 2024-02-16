@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/devesh-kumar-b62465233/**
 
-- ⚡ Fun fact **I can Learn Anything.**
+- ⚡ Fun fact **advance learning first >>> basics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
