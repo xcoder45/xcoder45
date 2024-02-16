@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **mern projects**
 
+- - 🔭 I’m currently learning **System Design**   
+
 - 👯 I’m looking to collaborate on **full stack projects**
 
 - 🤝 I’m looking for help with **searching jobs**
