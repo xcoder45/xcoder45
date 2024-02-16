@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **mern projects**
 
-- - 🔭 I’m currently learning **System Design**   
+- 🔭 I’m currently learning **System Design**   
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
