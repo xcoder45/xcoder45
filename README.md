@@ -5,21 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xcoder45" alt="xcoder45" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **mern projects**
-
-- 🔭 I’m currently learning **System Design**   
-
-- 👯 I’m looking to collaborate on **full stack projects**
-
-- 🤝 I’m looking for help with **searching jobs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/xcoder45](https://github.com/xcoder45)
 
-- 📫 How to reach me **https://www.linkedin.com/in/devesh-kumar-b62465233/**
-
-- ⚡ Fun fact **advance learning first >>> basics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
